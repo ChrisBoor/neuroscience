@@ -1,0 +1,60 @@
+﻿species of animal,body weight (kg),brain weight in g,slow wave (nondreaming) sleep (hrs/day),paradoxical (dreaming) sleep (hrs/day),total sleep (hrs/day) (sum of slow wave and pardoxical sleep),maximum life span (years),gestation time (days),predation index (1-5),sleep exposure index (1-5),overall danger index (1-5)
+Galago,0.2,5,9.5,1.2,10.7,10.4,120,2,2,2
+Nycticebus coucang,1.4,12.5,8.9,2.1,11,12.7,90,2,2,2
+Erythrocebus patas,10,115,10,0.9,10.9,20.2,170,4,4,4
+Chlorocebus pygerythrus,10.55,179.5,9.1,0.7,9.8,27,180,4,4,4
+Gorilla gorilla,207,406,9.7,2.3,12,39.3,252,1,4,1
+Pan troglodytes,52.16,440,8.3,1.4,9.7,50,230,1,1,1
+Homo sapiens,62,1320,6.1,1.9,8,100,267,1,1,1
+Canis lupus,36.33,119.5,10.4,2.6,13,16.2,63,1,1,1
+Vulpes vulpes,4.235,50.4,7.4,2.4,9.8,9.8,52,1,1,1
+Vulpes lagopus,3.385,44.5,10,2.5,12.5,14,60,1,1,1
+Procyon lotor,4.288,39.2,10,2.5,12.5,13.7,63,2,2,2
+Felis catus,3.3,25.6,10.9,3.6,14.5,28,63,1,2,1
+Panthera onca,100,157,8.7,2.1,10.8,22.4,100,1,1,1
+Halichoerus grypus,85,325,4.7,1.5,6.2,41,310,1,3,1
+Genetta,1.41,17.5,4.8,1.3,6.1,34,-999,1,2,1
+Elephas maximus,2547,4603,2.1,1.8,3.9,69,624,3,5,4
+Loxodonta,6654,5712,3,0.3,3.3,38.6,645,3,5,3
+Equus asinus,187.1,419,2.8,0.3,3.1,40,365,5,5,5
+Equus caballus,521,655,2.1,0.8,2.9,46,336,5,5,5
+Tapirus terrestris,160,169,5.2,1,6.2,30.4,392,4,5,4
+Procavia capensis,0.75,12.3,5.7,0.9,6.6,7,225,2,2,2
+Heterohyrax brucei,3.6,21,4.9,0.5,5.4,6,225,3,2,3
+Dendrohyrax arboreus,2,12.3,4.9,0.5,5.4,7.5,200,3,1,3
+Sus scrofa,192,180,6.5,1.9,8.4,27,115,4,4,4
+Cervidae,14.83,98.2,2.4,0.2,2.6,17,150,5,5,5
+Giraffa camelopardalis,529,680,4.3,0.3,4.6,28,400,5,5,5
+Okapia johnstoni,250,490,1,1,2,23.6,440,5,5,5
+Bos taurus,465,423,3.2,0.7,3.9,30,281,5,5,5
+Capra hircus,27.66,115,3.3,0.5,3.8,20,148,5,5,5
+Ovis aries,55.5,175,3.2,0.6,3.8,20,151,5,5,5
+Oryctolagus cuniculus,2.5,12.1,7.5,0.9,8.4,18,31,5,5,5
+Urocitellus parryii,0.101,4,10.4,3.4,13.8,9,28,5,1,3
+Urocitellus canus,0.92,5.7,13.1,3.4,16.5,-999,25,5,2,3
+Mesocricetus auratus,0.12,1,11,3.4,14.4,3.9,16,3,1,2
+Cricetomys gambianus,1,6.6,6.3,2,8.3,4.5,42,3,1,3
+Mus musculus,0.023,0.4,11.9,1.3,13.2,3.2,19,4,1,3
+Rattus,0.28,1.9,10.6,2.6,13.2,4.7,21,3,1,3
+Cavia porcellus,1.04,5.5,7.4,0.8,8.2,7.6,68,5,3,4
+Chinchilla,0.425,6.4,11,1.5,12.5,7,112,5,4,4
+Heterocephalus glaber,0.122,3,8.2,2.4,10.6,-999,30,2,1,1
+Aplodontia rufa,1.35,8.1,8.4,2.8,11.2,-999,45,3,1,3
+Eptesicus fuscus,0.023,0.3,15.8,3.9,19.7,19,35,1,1,1
+Myotis lucifugus,0.01,0.25,17.9,2,19.9,24,50,1,1,1
+Tenrec,0.9,2.6,11,2.3,13.3,4.5,60,2,1,2
+Echidna,3,25,8.6,0,8.6,50,28,2,2,2
+Didelphis virginiana,1.7,6.3,13.8,5.6,19.4,5,12,2,1,1
+Chironectes minimus,3.5,3.9,12.8,6.6,19.4,3,14,2,1,1
+Erinaceus europaeus,0.785,3.5,6.6,4.1,10.7,6,42,2,2,2
+Paraechinus aethiopicus,0.55,2.4,7.6,2.7,10.3,-999,-999,2,1,2
+Suncus murinus,0.048,0.33,10.8,2,12.8,2,30,4,1,3
+Blarina brevicauda,0.005,0.14,7.7,1.4,9.1,2.6,21.5,5,2,4
+Scalopus aquaticus,0.075,1.2,6.3,2.1,8.4,3.5,42,1,1,1
+Condylura cristata,0.06,1,8.1,2.2,10.3,3.5,-999,3,1,2
+Tupaia glis,0.104,2.5,13.2,2.6,15.8,2.3,46,3,2,2
+Dasypus novemcinctus,3.5,10.8,14.3,3.1,17.4,6.5,120,2,1,1
+Marmota flaviventris,4.05,17,-999,-999,-999,13,38,3,1,1
+Papio cynocephalus,10.55,179.5,9.1,0.7,9.8,27,180,4,4,4
+Phalanger,3.5,3.9,12.8,6.6,19.4,3,14,2,1,1
+Macropus sp.,35,56,-999,-999,-999,16.3,33,3,5,4
