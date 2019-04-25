@@ -1,0 +1,117 @@
+(
+(
+(
+(
+Echidna:4)
+Muraenidae:4)
+Anguilliformes:4)
+Actinopteri:4,
+(
+Tenrec:4,
+(
+Myotis lucifugus:4,
+Eptesicus fuscus:4
+)Vespertilionidae:4,
+(
+Aplodontia rufa:4,
+Heterocephalus glaber:4,
+Chinchilla:4,
+Cavia porcellus:4,
+(
+Rattus:4,
+Mus musculus:4
+)Muridae:4,
+Cricetomys gambianus:4,
+Mesocricetus auratus:4,
+(
+Marmota flaviventris:4,
+(
+Urocitellus canus:4,
+Urocitellus parryii:4
+)Urocitellus:4
+)Sciuridae:4
+)Rodentia:4,
+Oryctolagus cuniculus:4,
+(
+Ovis aries:4,
+Capra hircus:4,
+Bos taurus:4
+)Bovidae:4,
+(
+Okapia johnstoni:4,
+Giraffa camelopardalis:4
+)Giraffidae:4,
+Cervidae:4,
+Sus scrofa:4,
+(
+Dendrohyrax arboreus:4,
+Heterohyrax brucei:4,
+Procavia capensis:4
+)Procaviidae:4,
+(
+Tapirus terrestris:4,
+(
+Equus caballus:4,
+Equus asinus:4
+)Equus:4
+)Perissodactyla:4,
+(
+Loxodonta:4,
+Elephas maximus:4
+)Elephantidae:4,
+(
+Genetta:4,
+Halichoerus grypus:4,
+(
+Panthera onca:4,
+Felis catus:4
+)Felidae:4,
+Procyon lotor:4,
+(
+(
+Vulpes lagopus:4,
+Vulpes vulpes:4
+)Vulpes:4,
+Canis lupus:4
+)Canidae:4
+)Carnivora:4,
+(
+(
+Homo sapiens:4,
+Pan troglodytes:4,
+Gorilla gorilla:4
+)Hominidae:4,
+(
+Chlorocebus pygerythrus:4,
+Papio cynocephalus:4,
+Erythrocebus patas:4
+)Cercopithecidae:4,
+Nycticebus coucang:4,
+Galago:4
+)Primates:4,
+Tupaia glis:4,
+(
+(
+Condylura cristata:4,
+Scalopus aquaticus:4
+)Talpidae:4,
+(
+Blarina brevicauda:4,
+Suncus murinus:4
+)Soricidae:4,
+(
+Paraechinus aethiopicus:4,
+Erinaceus europaeus:4
+)Erinaceidae:4
+)Eulipotyphla:4,
+Dasypus novemcinctus:4,
+(
+Phalanger:4,
+Macropus sp.:4
+)Diprotodontia:4,
+(
+Chironectes minimus:4,
+Didelphis virginiana:4
+)Didelphidae:4
+)Mammalia:4
+)Chordata:4;
